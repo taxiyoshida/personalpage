@@ -3,7 +3,7 @@ import React from 'react'
 const IndexPage = () => (
   <div>
     <h1 className="fw5 sans-serif">Yoshi 吉田拓史</h1>
-    <p>Developing business news app, but stucked I need help, engineer. </p>
+    <p>Developing business news app, I need help. </p>
     <p>
 <h3>Profile</h3>
 <ul>
@@ -18,7 +18,7 @@ const IndexPage = () => (
 <h3>Music</h3>
 <ul>
 <li><a href="https://soundcloud.com/alcoholic-vivi">Alcoholic Vivi</a></li>
-<li><a href="https://soundcloud.com/taxi_yoshida">Takushi_Yoshida</a> </li>
+<li><a href="https://soundcloud.com/taxi_yoshida">Takushi Yoshida</a> </li>
 </ul>
 <h3>Novels</h3>
 <ul>
